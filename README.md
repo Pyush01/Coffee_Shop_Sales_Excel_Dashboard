@@ -10,3 +10,5 @@ This interactive Excel dashboard provides a clear and insightful overview of cof
 ✔️ Interactive Filters – Drill down into sales data for deeper insights.
 
 Designed for coffee shop owners and managers, this dashboard helps optimize inventory, pricing, and marketing strategies by providing real-time sales insights. ☕📊
+
+https://github.com/Pyush01/Coffee_Shop_Sales_Excel_Dashboard/blob/main/Screenshot%202024-05-25%20235034.png
